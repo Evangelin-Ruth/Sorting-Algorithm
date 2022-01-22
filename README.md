@@ -64,6 +64,7 @@ print(list_of_nums) # print the sorted list
 ```
 
 ## Output:
+![sorting output](https://user-images.githubusercontent.com/94219798/150627909-e424b13b-18fa-41b3-8b87-a47374d009c9.JPG)
 
 
 ## Result:
